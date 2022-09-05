@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-shape-divider-bottom-1662180507 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1662180507 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 400px;
+}
+
+.custom-shape-divider-bottom-1662180507 .shape-fill {
+    fill: #9AB1EC;
+}
+
+.custom-shape-divider-bottom-1662180686 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.swiper {
+    width:1200px;
+}
+
+.custom-shape-divider-bottom-1662180686 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 402px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1662180686 .shape-fill {
+    fill: #525252;
+}
